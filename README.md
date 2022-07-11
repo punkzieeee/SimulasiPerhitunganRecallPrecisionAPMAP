@@ -9,4 +9,5 @@ Dibuat oleh:
 - Annisa Azzahra (1402018083)
 
 Minimum requirement: anything goes
-cara install/pemakaian: double-click pada SimulasiPerhitunganRecallPrecisionAPMAP.jar
+
+Cara install/pemakaian: double-click pada SimulasiPerhitunganRecallPrecisionAPMAP.jar
